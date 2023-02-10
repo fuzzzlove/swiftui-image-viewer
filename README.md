@@ -10,7 +10,7 @@ A fullscreen image viewer with pinch-zooming built using SwiftUI.
 File ➜ Swift Packages ➜ Add Package Dependancy..
 ```
 
-```git@github.com:fuzzzlove/swiftui-image-viewer.git```
+```https://github.com/fuzzzlove/swiftui-image-viewer.git```
 
 # 👩‍💻 Usage
 
