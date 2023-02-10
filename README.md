@@ -6,11 +6,11 @@ A fullscreen image viewer with pinch-zooming built using SwiftUI.
 
 # 👩‍🔧 Installation
 
-```Swift
-File ➜ Swift Packages ➜ Add Package Dependancy..
-```
+File -> Swift Packages -> Add Package Dependancy..
 
-```https://github.com/fuzzzlove/swiftui-image-viewer.git```
+```Swift
+https://github.com/fuzzzlove/swiftui-image-viewer.git
+```
 
 # 👩‍💻 Usage
 
